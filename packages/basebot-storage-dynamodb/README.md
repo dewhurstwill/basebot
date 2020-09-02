@@ -1,4 +1,4 @@
-## basebot-storage-firestore
+## basebot-storage-dynamodb
 
 DynamoDB storage module for Basebot
 
