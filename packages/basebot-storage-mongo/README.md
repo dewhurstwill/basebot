@@ -1,6 +1,6 @@
 ## basebot-storage-mongo
 
-DynamoDB storage module for Basebot
+MongoDB storage module for Basebot
 
 ### Usage
 
