@@ -6,9 +6,7 @@ MongoDB storage module for Basebot
 
 Requires the following env vars:
 
-`AWS_REGION`
-`AWS_SECRET_ACCESS_KEY`
-`AWS_ACCESS_KEY_ID`
+`DB_URL`
 
 services/../storage
 ```javascript
