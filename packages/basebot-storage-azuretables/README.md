@@ -10,7 +10,7 @@ Requires the following env vars:
 
 services/../storage
 ```javascript
-  import storage from 'basebot-storage-firestore'
+  import storage from 'basebot-storage-azuretables'
   import { logger } from '../'
 
   export default storage(logger)
